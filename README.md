@@ -1,2 +1,2 @@
 # TinDog
-A simple webite using HTML5 and CSS3. A responsive site to understand intermediate functions and properties of CSS3
+A simple webite using HTML5 and CSS3 and Bootstarp. A responsive site to understand intermediate functions and properties of Bootstrap
